@@ -22,7 +22,7 @@ CSS: Estilização da página, garantindo um design elegante e condizente com a 
 JavaScript: Adição de interatividade e dinamismo, proporcionando uma experiência de usuário mais envolvente.
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Grille-Restaurante/blob/main/Grlli_2-removebg-preview.png"></img>
 
 
 # Componentes Principais:
@@ -44,6 +44,9 @@ Contact:
 Informações: Fornece os dados de contato do restaurante, como endereço, telefone e horário de funcionamento.
 Formulário: Inclui um formulário de contato interativo para que os visitantes possam enviar mensagens ou fazer reservas.
 Mapa: Um mapa interativo mostrando a localização do restaurante, facilitando a visita dos clientes.
+
+<img width=100% src=""></img>
+
 
 # Destaques do Design:
 
