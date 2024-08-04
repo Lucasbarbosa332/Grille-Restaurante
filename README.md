@@ -7,7 +7,7 @@ Uma landing page de um restaurante
 
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Grille-Restaurante/blob/main/Grlli_1-removebg-preview.png"></img>
 
 <br/>
 
@@ -20,6 +20,10 @@ O projeto "Grille" é uma landing page desenvolvida para um restaurante, cujo ob
 HTML: Estruturação do conteúdo da página, organizando as diferentes seções de maneira clara e navegável.
 CSS: Estilização da página, garantindo um design elegante e condizente com a identidade visual do restaurante.
 JavaScript: Adição de interatividade e dinamismo, proporcionando uma experiência de usuário mais envolvente.
+
+
+<img width=100% src=""></img>
+
 
 # Componentes Principais:
 
