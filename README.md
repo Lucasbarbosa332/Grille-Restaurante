@@ -45,7 +45,7 @@ Informações: Fornece os dados de contato do restaurante, como endereço, telef
 Formulário: Inclui um formulário de contato interativo para que os visitantes possam enviar mensagens ou fazer reservas.
 Mapa: Um mapa interativo mostrando a localização do restaurante, facilitando a visita dos clientes.
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Grille-Restaurante/blob/main/Grlli_3-removebg-preview.png"></img>
 
 
 # Destaques do Design:
@@ -77,4 +77,4 @@ Interatividade: Animações suaves e transições feitas com JavaScript, proporc
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
-  [FoodPeak](https://foodpeak.netlify.app/)
+  [Grille](https://grllirestaurante.netlify.app/)
